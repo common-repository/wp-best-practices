@@ -1,0 +1,20 @@
+.field-name {
+    width: 50%;
+    height: 50px;
+    text-align: left;
+}
+ 
+.field-value {
+    width: 50%;
+    padding-left: 25px;
+}
+
+.recommended {
+    font-weight: bold;
+    font-style: italic;
+}
+
+table {
+    width: 100%;
+}
+
